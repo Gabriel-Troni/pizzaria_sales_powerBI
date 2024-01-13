@@ -24,7 +24,11 @@ The dashboard allows stakeholders to use various filters, including date range, 
 ## Screenshots
 <div style="display: flex;">
   <img src="./images/sreen1.PNG" alt="first page" style="width: 100%">
+  <br>
+  <br>
   <img src="./images/screen2.PNG" alt="second page" style="width: 100%">
+  <br>
+  <br>
   <img src="./images/screen3.PNG" alt="third page" style="width: 100%">
 </div>
 
